@@ -1,4 +1,4 @@
-var a=10;
+var a=10; 
 var b=20;
 var c="thirty";
 var d="red"
