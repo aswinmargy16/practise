@@ -1,0 +1,10 @@
+let a=20;
+let b=40;
+let c="venkey";
+let d="mumu";
+console.log(a==b);
+console.log(a===b);
+console.log(a==c);
+console.log(a===c);
+console.log(a==d);
+console.log(a===d);
