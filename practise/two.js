@@ -14,4 +14,4 @@ console.log(a*e);
 console.log(a*f);
 console.log(a*g);
 console.log(a*i);
-console.log(a*h);
+console.log(a*h);cd
