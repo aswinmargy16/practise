@@ -1,5 +1,6 @@
-if (Number %8 === 2) {
-    console. log("divisible")
-    } else { 
+let i=14
+if(i%7==0){
+    console.log("divisible")
+    }else{ 
     console. log("not divisible")
     }
