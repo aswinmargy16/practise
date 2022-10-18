@@ -21,4 +21,9 @@ class Accounts{
 }
 let a1=new Accounts();
 console.log(a1);
-console.log(a1.open_account);
+a1.open_account();
+a1.close_account();
+a1.deposit_ammount();
+a1.get_balance();
+a1.get_statement();
+a1.withdraw_account();
