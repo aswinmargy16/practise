@@ -1,5 +1,5 @@
 let i=23
-if(i%5==0){
+if(i%3==0){
     console.log("multiple")
     }else{ 
     console. log("not multiple")
